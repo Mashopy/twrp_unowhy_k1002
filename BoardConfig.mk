@@ -1,4 +1,4 @@
-DEVICE_PATH := device/malata/k1002
+DEVICE_PATH := device/unowhy/k1002
 
 # Architecture
 TARGET_ARCH := arm64
